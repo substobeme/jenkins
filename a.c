@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-printf("This is the test code changed 1\n");
+printf("This is the test code changed 1 3\n");
 }
 
